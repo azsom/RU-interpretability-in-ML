@@ -1,5 +1,6 @@
 
 # Interpretability Techniques for Machine Learning Models
+## Reykjavik University, June 2025
 This seminar provides practical techniques to enhance the explainability of machine learning models. We will stress the importance of understanding why models make specific predictions, both during their creation and after they are put into use. The session will cover methods for determining overall feature importance (global explanations) and assessing the impact of each feature on individual predictions (local explanations). We'll explore techniques applicable to linear models, as well as perturbation-based methods, and finally Shapley Additive Explanations (SHAP) for understanding local feature contributions. You will learn how to apply these techniques using Python and popular libraries like pandas, sklearn, XGBoost, and SHAP to build more interpretable, fair, and trustworthy models.
 
 ## Prerequisites
